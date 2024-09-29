@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mongi!
 - 👀 I’m a mathematician interested in statistics, quantitative finance, data science and machine learning.
-- 👨‍🎓 I have a BSc in mathematics, an MSc in applied mathematics from EPFL, and an MSc in Financial Technology from Imperial College London.
+- 👨‍🎓 I have a BSc in mathematics, an MSc in applied mathematics from EPFL, and an MSc in financial technology from Imperial College London.
 - 👨‍💻 I am looking for a quantitative research position in London.
 
 <!---
